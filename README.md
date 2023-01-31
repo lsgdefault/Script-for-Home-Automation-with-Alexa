@@ -9,10 +9,10 @@ This is basic script for Home Automation with alexa using nodemcu (ESP8266)
 
 # Features
 
-  •Supports upto 8 devices
+  	•Supports upto 8 devices
 	•Auto connect to network if disconnect
 	•Supports physical Switches
-  •Can turn on or off any non smart item
+ 	•Can turn on or off any non smart item
 
 
 # Tech Used
